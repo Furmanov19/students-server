@@ -1,0 +1,22 @@
+{
+  "name": "students-server",
+  "version": "1.0.0",
+  "description": "Fake REST Api",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furmanov19/students-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Furmanov19/students-server/issues"
+  },
+  "homepage": "https://github.com/Furmanov19/students-server#readme"
+}
